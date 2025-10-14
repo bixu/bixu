@@ -1,4 +1,4 @@
-## Greetings, human.
+## Why hello there 👋
 
 I’m currently leading Observability Engineering at [SumUp](https://www.sumup.com)
 
